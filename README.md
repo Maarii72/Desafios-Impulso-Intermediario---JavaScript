@@ -60,10 +60,7 @@ Para cada caso de teste, imprima uma única linha indicando o nível de velocida
 
 | Exemplos de Entrada  | Exemplos de Saída   |
 | ------- | -------- |
-| 10<br>10 10 10 10 15 18 20 15 <br>11 10 <br>10
-<br>1 5 2 9 5 5 8 4 4 3
-<br>10
-<br>19 9 1 4 5 8 6 11 9 7  | 3<br>1<br>2<br>    |
+| 10<br>10 10 10 10 15 18 20 15<br>11 10<br>10<br>1 5 2 9 5 5 8 4 4 3<br>10<br>19 9 1 4 5 8 6 11 9 7  | 3<br>1<br>2<br>    |
 
 ### 4 / 4 - Pedro Bento e o Mundo de OZ
 No jogo, O Mundo de Oz, Pedro Bento é o líder do Tribunal, por causa disso ele é uma das pessoas mais importantes do mundo, no jogo. Além disso, Pedro Bento possui um grande tesouro, o qual possui diversos tipos de jóias.
