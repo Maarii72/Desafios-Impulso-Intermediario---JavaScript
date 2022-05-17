@@ -1,5 +1,3 @@
-//TODO: Complete os espaços em branco com uma possível solução para o problema.
-
 const array = [];
 const isUnique = [];
 let count = 0;
@@ -9,14 +7,14 @@ do {
   if (value == '') {
     break;
   } else {
-    array.push(       );
+    array.push(value);
   }
 } while (true);
 
-for (item       array) {
-  if (!isUnique.includes(item)) isUnique.push(     );
+for (item of array) {
+  if (!isUnique.includes(item)) isUnique.push(item);
 }
 
-const result = isUnique.     ;
+const result = isUnique.length;
 
 print(result);
